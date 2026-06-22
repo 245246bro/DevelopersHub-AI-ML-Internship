@@ -1,35 +1,28 @@
-# AI/ML Engineering Internship Tasks
+# AI/ML Internship Tasks
 
-## Completed Tasks
+## Task 1: Exploring and Visualizing Iris Dataset
 
-### Task 1: Exploring and Visualizing the Iris Dataset
+### Objective
+Explore and visualize the Iris dataset using Python.
 
-* Dataset: Iris Dataset
-* Tools: Pandas, Matplotlib, Seaborn
-* Performed data exploration and visualization using scatter plots, histograms, and box plots.
+### Dataset
+Iris Dataset
 
-### Task 3: Heart Disease Prediction
+### Tools
+- Python
+- Pandas
+- Seaborn
+- Matplotlib
 
-* Dataset: Heart Disease UCI Dataset
-* Model: Logistic Regression / Decision Tree
-* Evaluated using Accuracy, ROC Curve, and Confusion Matrix.
+### Work Done
+- Data Loading
+- Data Inspection
+- Summary Statistics
+- Scatter Plot
+- Histograms
+- Box Plots
 
-### Task 6: House Price Prediction
-
-* Dataset: House Price Dataset
-* Model: Linear Regression
-* Evaluated using MAE and RMSE.
-
-## Technologies Used
-
-* Python
-* Pandas
-* NumPy
-* Matplotlib
-* Seaborn
-* Scikit-learn
-* Jupyter Notebook
-
-## Author
-
-AI/ML Engineering Internship Submission
+### Key Findings
+- Dataset contains 150 records.
+- Three flower species are present.
+- Petal features separate species effectively.
